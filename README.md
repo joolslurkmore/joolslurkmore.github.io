@@ -1,4 +1,4 @@
-![пппп](https://user-images.githubusercontent.com/68161978/111922096-16b50400-8aa9-11eb-9cd0-98a712df355c.png)
+
 # joolslurkmore.github.io
 ## resouces 
 ### photos
