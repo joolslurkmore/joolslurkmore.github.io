@@ -19,4 +19,4 @@
   - Arimo
 ### else
 ### icons
-![Sketches_4](https://user-images.githubusercontent.com/68161978/111921274-cd62b580-8aa4-11eb-94c6-6f5de3b838da.png)
+![ic1](https://user-images.githubusercontent.com/68161978/111921471-d43df800-8aa5-11eb-9935-b8743a993c5e.png)
