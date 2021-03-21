@@ -1,3 +1,4 @@
+![пппп](https://user-images.githubusercontent.com/68161978/111922096-16b50400-8aa9-11eb-9cd0-98a712df355c.png)
 # joolslurkmore.github.io
 ## resouces 
 ### photos
@@ -20,3 +21,4 @@
 ### else
 ### icons
 ![ic1](https://user-images.githubusercontent.com/68161978/111921471-d43df800-8aa5-11eb-9935-b8743a993c5e.png)
+![ic3](https://user-images.githubusercontent.com/68161978/111922111-2896a700-8aa9-11eb-98e0-99b1ab9ae26b.png)
