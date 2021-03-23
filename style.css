@@ -32,7 +32,6 @@ body {
     
 }
 
-}
 
 .nav {
     display: flex;
@@ -41,7 +40,6 @@ body {
 .nav ul {
     display: flex;
     font-size: 15px;
-    border-bottom: 1px solid #000000;
 }
 a.hubC {
     color:;
@@ -59,6 +57,7 @@ a.hubC {
 .content-wrapper {
     display: flex;
     padding: 20px;
+    border-top: 1px solid #000000;
 }
 
 .content {
