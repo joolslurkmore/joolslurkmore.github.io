@@ -22,4 +22,5 @@
 ### icons
 ![ic1](https://user-images.githubusercontent.com/68161978/111921471-d43df800-8aa5-11eb-9935-b8743a993c5e.png)
 ![ic3](https://user-images.githubusercontent.com/68161978/111922111-2896a700-8aa9-11eb-98e0-99b1ab9ae26b.png)
-![ic4](https://user-images.githubusercontent.com/68161978/111923157-e40e0a00-8aae-11eb-8d42-14f75a9478e6.png)
+![iс4](https://user-images.githubusercontent.com/68161978/112148042-7537ca80-8bee-11eb-8ef9-78ca30970392.png)
+
