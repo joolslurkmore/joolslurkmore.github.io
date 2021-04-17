@@ -14,8 +14,7 @@
 ![Masquerade ](https://user-images.githubusercontent.com/68161978/112204840-31ac8300-8c25-11eb-92c2-8edf4a9fd0b3.jpg)
 ![im79](https://user-images.githubusercontent.com/68161978/112210533-dd58d180-8c2b-11eb-9c66-68958b4ea0c1.jpg)
 
-
-
+![logoVk](https://user-images.githubusercontent.com/68161978/115126857-daf35880-9fda-11eb-879b-d43cafb78cde.jpg)
 ### colors
 [colorPicker](https://imagecolorpicker.com)
 ### fonts
