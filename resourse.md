@@ -11,10 +11,8 @@
 ![flowers3](https://user-images.githubusercontent.com/68161978/111704138-b5462880-884f-11eb-9e03-7e54b5c974de.png)
 ![flowers4](https://user-images.githubusercontent.com/68161978/111704163-bf682700-884f-11eb-8782-0a8a541c79e9.png)
 ![image](https://user-images.githubusercontent.com/68161978/111704190-c8f18f00-884f-11eb-9ebd-edaaa3bd062d.png)
-![Masquerade ](https://user-images.githubusercontent.com/68161978/112204840-31ac8300-8c25-11eb-92c2-8edf4a9fd0b3.jpg)
+![Masquerade](https://user-images.githubusercontent.com/68161978/112204840-31ac8300-8c25-11eb-92c2-8edf4a9fd0b3.jpg)
 ![im79](https://user-images.githubusercontent.com/68161978/112210533-dd58d180-8c2b-11eb-9c66-68958b4ea0c1.jpg)
-
-
 
 ### colors
 [colorPicker](https://imagecolorpicker.com)
@@ -30,4 +28,3 @@
 ![ic3](https://user-images.githubusercontent.com/68161978/111922111-2896a700-8aa9-11eb-98e0-99b1ab9ae26b.png)
 ![iс4](https://user-images.githubusercontent.com/68161978/112148042-7537ca80-8bee-11eb-8ef9-78ca30970392.png)
 ![ic5](https://user-images.githubusercontent.com/68161978/112148564-13c42b80-8bef-11eb-8843-9cfaff04d14d.png)
-
